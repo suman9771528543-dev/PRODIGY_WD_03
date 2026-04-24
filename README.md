@@ -8,4 +8,4 @@ A sleek, responsive Tic-Tac-Toe game built for the internship.
 * **Instant Reset:** Built-in restart functionality.
 
 ## 🚀 Live Demo
-[Click here to play the game!](https://suman9771528543-dev.github.io/-Prodigy_Internship_Tasks/second.html)
+[Click here to play the game!](https://suman9771528543-dev.github.io/PRODIGY_WD_03/)
